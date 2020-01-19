@@ -18,3 +18,7 @@ body {
 p {
     text-align:justify;
 }
+
+.indented {
+    padding:10px 0px;
+}
